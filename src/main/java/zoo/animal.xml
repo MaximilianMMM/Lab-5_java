@@ -1,0 +1,14 @@
+<Animal>
+    <name>Lion</name>
+    <gender>Male</gender>
+    <birthDate>2020-03-15</birthDate>
+    <arrivalDate>2021-05-20</arrivalDate>
+    <healthStatus>
+        <status>Healthy</status>
+    </healthStatus>
+    <section>
+        <sectionName>Savannah</sectionName>
+        <location>Africa Zone</location>
+    </section>
+    <foodName>Meat</foodName>
+</Animal>
